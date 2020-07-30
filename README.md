@@ -1,6 +1,6 @@
 # Datacamp Python Data Scientist career track practice notebook 
 
-# skiills track: 
+# skills track: 
     Data Manipulation 
         Data Manipulation with Pandas
         Merging DataFrames with Pandas
