@@ -8,7 +8,7 @@
     Data Importing and Cleaning 
         Intermediate Importing Data in Python
         Data Cleaning in Python
-        Streamlined Data Ingestion with Pandas
+        
     Data Visualization with Python
         Introduction to Data Visualizatoin with Matplotlib
         
