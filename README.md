@@ -5,6 +5,7 @@
         Data Manipulation with Pandas
         Merging DataFrames with Pandas
         Analyzing Police Activity with Pandas
+        Join Data with Pandas
     Data Importing and Cleaning 
         Intermediate Importing Data in Python
         Data Cleaning in Python
